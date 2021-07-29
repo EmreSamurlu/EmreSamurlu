@@ -6,7 +6,6 @@
 -----
 
 I'm an Environmental Engineer. But I was always curious about coding. I learned HTML, CSS by myself and I'm currently learning JavaScript. I hope, I get better at coding :) .
------
 
 -----
 
