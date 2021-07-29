@@ -12,13 +12,7 @@ I'm an Environmental Engineer. But I was always curious about coding. I learned 
 
 🧰 Toolbox
 
-<img src="C:\Users\gs_em\Desktop\WEB ŞİRKET\GitHub\emrethewebkit.github.io\html-1.svg" width="50" height="50" alt="HTML5 Logo" style="float:left"/>
-
-<img src="C:\Users\gs_em\Desktop\WEB ŞİRKET\GitHub\emrethewebkit.github.io\css-3.svg" alt="CSS3 Logo" width="50" height="50" style="float:left" />
-
-<img src="C:\Users\gs_em\Desktop\WEB ŞİRKET\GitHub\emrethewebkit.github.io\logo-javascript.svg" alt="JS Logo" width="50" height="50" style="float:left">
-
-<img src="C:\Users\gs_em\Desktop\WEB ŞİRKET\GitHub\emrethewebkit.github.io\vscode.svg" alt="VS Code Logo" width="50" height="50" style="float:left">
+<img src="https://github.com/EmreSamurlu/EmreSamurlu/blob/main/html-1.svg" width="50" height="50" alt="HTML5 Logo"/> <img src="https://github.com/EmreSamurlu/EmreSamurlu/blob/main/css-3.svg" alt="CSS3 Logo" width="50" height="50"/> <img src="https://github.com/EmreSamurlu/EmreSamurlu/blob/main/logo-javascript.svg" alt="JS Logo" width="50" height="50" /> <img src="https://github.com/EmreSamurlu/EmreSamurlu/blob/main/vscode.svg" alt="VS Code Logo" width="50" height="50" >
 
 -----
 
