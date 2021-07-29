@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmreSamurlu
 - 👀 I’m interested in Front-End Web Development
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FSamurluEmre)
+- 📫 How to reach me ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FSamurluEmre) ![Linkedin URL] (https://www.linkedin.com/in/emre-samurlu/)
 
 ---
 I'm an Environmental Engineer. But I was always curious about coding. I learned HTML, CSS by myself and I'm currently learning JavaScript. I hope, I get better at coding :).
