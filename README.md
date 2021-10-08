@@ -18,7 +18,7 @@ I'm an Environmental Engineer. But I was always curious about coding. I learned 
 -----
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreSamurlu&layout=compact)](https://github.com/EmreSamurlu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreSamurlu&layout=compact&theme=radical)](https://github.com/EmreSamurlu/github-readme-stats)
 
 
 
