@@ -22,7 +22,7 @@ I'm an Environmental Engineer. But I was always curious about coding. I learned 
 
 
 
-[![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmreSamurlu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmreSamurlu&theme=radical)](https://github.com/EmreSamurlu/github-readme-stats)
 
 <!---
 EmreSamurlu/EmreSamurlu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
