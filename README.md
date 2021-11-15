@@ -19,9 +19,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emresamurlu&show_icons=true&locale=en&layout=compact" alt="emresamurlu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emresamurlu&show_icons=true&locale=en" alt="emresamurlu" />
+<p>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=emresamurlu&show_icons=true&locale=en" alt="emresamurlu" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emresamurlu&" alt="emresamurlu" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emresamurlu&" alt="emresamurlu" /></p>
+<p></p>
 
 
