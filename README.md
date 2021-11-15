@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EmreSamurlu
+-## 👋 Hi, I’m @EmreSamurlu
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me [Twitter](https://twitter.com/SamurluEmre), [LinkedIn](https://www.linkedin.com/in/emre-samurlu/)
