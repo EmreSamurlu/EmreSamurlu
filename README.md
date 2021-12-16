@@ -12,6 +12,8 @@
 <a href="https://stackoverflow.com/users/15614823/emre-samurlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="emre-samurlu" height="30" width="40" /></a>
 <a href="https://www.instagram.com/emresamurlu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emresamurlu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/emrsmrl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="emrsmrl" height="30" width="40" /></a>
+<a href="https://medium.com/@emresamurlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="emrsmrl" height="30" width="40" /></a>
+
 </p>
 <hr/>
 <h3 align="left">🧑🏻‍💻 Languages and Tools:</h3>
