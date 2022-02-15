@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="left">👀 Mobile Developer - React Native</h3>
-<p align="left">I'm on my way to becoming a Mobile Developer. So I started with basics like Html and CSS. After that JS, React and Node.js. I learned all this through my own work 🤓.  I'm currently learning React Native. While learning these languages and frameworks, I got a lot of help from Patika.dev. So thanks a lot Patika.dev. 🙂 </p>
+<p align="left">Greetings everyone. I am working as a Mobile Developer at Inavitas company. I started my software life with basic knowledge such as HTML and CSS. Then I learned JS, React, React Native and Node.js. I learned all of this through my own work 🤓. I am currently working as a React Native developer. At the same time, I am on the way to become a Full Stack Developer by continuing my React and Node.js education. During this process I got a lot of help from Patika.dev while learning these languages and frameworks. So thank you very much Patika.dev. 🙂 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=emresamurlu&label=Profile%20views&color=0e75b6&style=flat" alt="emresamurlu" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emresamurlu" alt="emresamurlu" /></a> </p>
