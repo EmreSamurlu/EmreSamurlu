@@ -2,11 +2,13 @@
 🔭 I’m currently working on React Native and NodeJS<br>🌱 I’m currently learning redis, redisgraph, postgresql and nodejs
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EmreSamurlu&icon=2&color=3)](https://visitcount.itsvg.in)
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=emresamurlu&label=Profile%20views&color=0e75b6&style=flat" alt="emresamurlu" /> 
+</p>
+
 ---
 
 ## 🌐 Socials:
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emresamurlu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emre-samurlu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@emresamurlu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15614823) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SamurluEmre) 
 
 # 💻 Tech Stack:
