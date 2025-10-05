@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React Native and NodeJS<br>🌱 I’m currently learning redis, redisgraph, postgresql and nodejs
-
+🔭 I’m currently working on React and React Native<br>
 ---
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=emresamurlu&label=Profile%20views&color=0e75b6&style=flat" alt="emresamurlu" /> 
